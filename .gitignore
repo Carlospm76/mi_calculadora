@@ -1,0 +1,5 @@
+.venv/
+# Archivos compilados Python
+__pychache__/
+*.pyc
+*.pyo
