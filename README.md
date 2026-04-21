@@ -1,0 +1,1 @@
+Repositorio para la enseñanaza de git mediante un ejemplo de calculadora
